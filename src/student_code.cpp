@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+//this is a comment
 
 int getIntValue() {
     // Declare a variable var_int of type int and set its value to 10.
